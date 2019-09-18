@@ -1,0 +1,27 @@
+.logo{
+
+      font-family: 'Audiowide', cursive;
+    font-size: 22px;
+    color: white;
+    padding-left: 30px;
+    text-decoration: none !important
+}
+.required{
+  font-size: 11px;
+  color: red;
+}
+
+select[multiple] {
+    height: 200px;
+}
+.logo: hover a{    text-decoration: none !important;
+}
+
+.tm-navbar-container:not(.uk-navbar-transparent) {
+    background: linear-gradient(to left, #28a5f5, #1e87f0);
+}
+
+#navbar{height:90px}
+.green{
+    color:green;
+}
